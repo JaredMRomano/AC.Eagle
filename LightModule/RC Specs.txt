@@ -1,0 +1,13 @@
+3K Ohm
+3300 uF
+vpp 0.000126
+Settling time 22.79s
+
+Surface mount options
+2M Ohm
+2.2uF
+Vpp 0.000284
+Settling time 10.13
+
+Cap GCM21BR71A225JA37L
+Res PMR18EZPFV2L00
